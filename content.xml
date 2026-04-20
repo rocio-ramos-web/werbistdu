@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260416142843EPEGO7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260416142843VMPH9N</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Wer bist du? </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de eXeLearning  - CDD B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Rocío Ramos Alanzabes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este proyecto el alumnado tendrá su primer acercamiento a la lengua alemana.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776342224425</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo1gaoca-oj30xlf8f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenid@</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenid@</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenid@</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaoca-oj30xlf8f</odePageId>
+      <odeBlockId>block-1775725182856-3r017dp86</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaoca-oj30xlf8f</odePageId>
+          <odeBlockId>block-1775725182856-3r017dp86</odeBlockId>
+          <odeIdeviceId>idevice-1775725182853-xwzzjbgqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenid@!</p>
+<p>¿Has querido siempre tener un acercamiento a la lengua alemana? ¿Has viajado a Alemania, Austria o Suiza y te has quedado con ganas de más? ¿Te gustaría hacer un viaje por Europa y visitar algunos de sus países más importantes? ¿Sabes que en esos tres países viven más de 100 millones de personas? </p>
+<p>¿Te atreves a empezar? Si tu respuesta es sí, estás en el lugar correcto.</p>
+<h3 style="text-align: center;">¡Bienvenid@ a la primera lección!</h3>
+<h6 style="text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_jaarc7jaarc7jaar.png" width="503" height="274" alt="" style="display: block; margin-left: auto; margin-right: auto;" id="link_0" />Imagen creada por IA  (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775725182853-xwzzjbgqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenid@!</p>\n<p>¿Has querido siempre tener un acercamiento a la lengua alemana? ¿Has viajado a Alemania, Austria o Suiza y te has quedado con ganas de más? ¿Te gustaría hacer un viaje por Europa y visitar algunos de sus países más importantes? ¿Sabes que en esos tres países viven más de 100 millones de personas? </p>\n<p>¿Te atreves a empezar? Si tu respuesta es sí, estás en el lugar correcto.</p>\n<h3 style=\"text-align: center;\">¡Bienvenid@ a la primera lección!</h3>\n<h6 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_jaarc7jaarc7jaar.png\" width=\"503\" height=\"274\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" id=\"link_0\" />Imagen creada por IA  (<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>)</h6>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaoce-w91maol9u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué voy a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué voy a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué voy a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaoce-w91maol9u</odePageId>
+      <odeBlockId>block-1774079492578-2wfgy2akc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaoce-w91maol9u</odePageId>
+          <odeBlockId>block-1774079492578-2wfgy2akc</odeBlockId>
+          <odeIdeviceId>idevice-1774079492575-zyu09ol6v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título descriptivo</strong>: Wer bist du? Aprendo a presentarme y dar datos básico en alemán<br /><strong>Centro de interés o temática</strong>: Aprender a presentarse en alemán<br /><strong>Nivel al que va dirigido</strong>: A1 del Marco de Referencia Común Europeo de las Lenguas</p>
+<p><img src="{{context_path}}/content/resources/puerta-de-brandenburgo.png" width="202" height="202" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;" id="link_0" title=""><a href="<a%20href="https://www.flaticon.es/iconos-gratis/alemania"%20title="alemania%20iconos">Alemania%20iconos%20creados%20por%20Freepik%20-%20Flaticon</a>">Imagen </a>de  <a href="https://www.flaticon.es/autores/freepik">Freepik </a>de <a href="https://www.flaticon.es/">Flaticon </a>(<a href="https://www.flaticon.es/legal">Licencia gratuita</a>)</h6>
+<p><strong>Temporalización aproximada</strong>: 5 sesiones de dos horas y cuarto (dos semanas y media: desde el inicio de clase la última semana de septiembre a mediados de octubre)<br /><strong>Materia o materias implicadas</strong>: Alemán como Lengua Extranjera<br /><strong>Idioma</strong>: Alemán<br /><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong>:<br />- saludos<br />- preguntar por el nombre y presentarse<br />- hablar sobre el lugar de residencia<br />                         “            procedencia<br />- los idiomas<br />- los números y el número de teléfono<br />- deletrear y la dirección de correo electrónico</p>
+</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocf-v1z6piqo3</odePageId>
+  <odeParentPageId>page-mo1gaoce-w91maol9u</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocf-v1z6piqo3</odePageId>
+      <odeBlockId>block-1774349840951-71vl9yzkt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocf-v1z6piqo3</odePageId>
+          <odeBlockId>block-1774349840951-71vl9yzkt</odeBlockId>
+          <odeIdeviceId>idevice-1774349840948-sv27v0cgx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">Esta unidad está concebida de forma que...s<iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Deutsch - Lektion 1Wer bist du?" frameborder="0" src="https://view.genially.com/69b1a5cf82c684ada062f7c3" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774349840948-sv27v0cgx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\">Esta unidad está concebida de forma que...s<iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"Deutsch - Lektion 1Wer bist du?\" frameborder=\"0\" src=\"https://view.genially.com/69b1a5cf82c684ada062f7c3\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocg-p8kd1q8r0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Antes de empezar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de empezar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de empezar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocg-p8kd1q8r0</odePageId>
+      <odeBlockId>block-1775557079392-fuwon1z7j</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocg-p8kd1q8r0</odePageId>
+          <odeBlockId>block-1775557079392-fuwon1z7j</odeBlockId>
+          <odeIdeviceId>idevice-1775557079390-103ug0vq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de empezar te recomiendo que te informes sobre:</p>
+<p>- <a href="tus-datos-personales-y-derechos-digitales.html" id="link_1">tus derechos digitales y como tratar tus datos personales</a></p>
+<p>- <a href="mis-herramientas-de-curacion-de-contenidos.html" id="link_2">mis herramientas de curación de contenidos</a></p>
+<p><img src="{{context_path}}/content/resources/start-up.png" width="158" height="158" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<h6 style="text-align: center;"><a href="<a%20href="https://www.flaticon.es/iconos-gratis/puesta-en-marcha"%20title="puesta%20en%20marcha%20iconos">Puesta%20en%20marcha%20iconos%20creados%20por%20Fajri%20rama%20-%20Flaticon</a>" id="link_3" title="">Imagen </a>de <a href="https://www.flaticon.es/autores/fajri-rama">Fairi rama</a> de <a href="https://www.flaticon.es/">Flaticon </a>(<a href="https://www.flaticon.es/legal">Licencia gratuita</a>)</h6>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaoch-87xut8ikr</odePageId>
+  <odeParentPageId>page-mo1gaocg-p8kd1q8r0</odeParentPageId>
+  <pageName>Tus datos personales y derechos digitales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tus datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tus datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tus datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaoch-87xut8ikr</odePageId>
+      <odeBlockId>block-1774079850362-untfjh0wu</odeBlockId>
+      <blockName>Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaoch-87xut8ikr</odePageId>
+          <odeBlockId>block-1774079850362-untfjh0wu</odeBlockId>
+          <odeIdeviceId>idevice-1774079850358-ndd8lu18z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.jpg" title="Protege tus datos" width="1250" height="3125" alt="" /><br /><img src="{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.pdf" title="Protege tus datos y derechos digitales" alt="" /><img src="{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.pdf" title="Protege tus datos" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774079850358-ndd8lu18z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.jpg\" title=\"Protege tus datos\" width=\"1250\" height=\"3125\" alt=\"\" /><br /><img src=\"{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.pdf\" title=\"Protege tus datos y derechos digitales\" alt=\"\" /><img src=\"{{context_path}}/content/resources/2.3. Infografía - Rocío Ramos.pdf\" title=\"Protege tus datos\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaock-rvyudl6a1</odePageId>
+  <odeParentPageId>page-mo1gaocg-p8kd1q8r0</odeParentPageId>
+  <pageName>Mis herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mis herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mis herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaock-rvyudl6a1</odePageId>
+      <odeBlockId>block-1774350495595-c0ncafrqa</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaock-rvyudl6a1</odePageId>
+          <odeBlockId>block-1774350495595-c0ncafrqa</odeBlockId>
+          <odeIdeviceId>idevice-1774350495593-q5itwkrwr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí te presento el padlet con los enlaces que trabajarás en la lección:</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/nw0yga79w2h88850" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+<p></p>
+<p>Aquí presento las herramientas que uso en mi rutina docente:</p>
+<p><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/rutina-docente-de-rocio-ramos"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774350495593-q5itwkrwr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí te presento el padlet con los enlaces que trabajarás en la lección:</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/nw0yga79w2h88850\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p></p>\n<p>Aquí presento las herramientas que uso en mi rutina docente:</p>\n<p><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/rutina-docente-de-rocio-ramos\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaock-nnv5aagly</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaock-nnv5aagly</odePageId>
+      <odeBlockId>block-1774079312091-wgitlybww</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaock-nnv5aagly</odePageId>
+          <odeBlockId>block-1774079312091-wgitlybww</odeBlockId>
+          <odeIdeviceId>idevice-1774079312088-mp1v8l615</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ACTIVIDAD 1: INTRODUCCIÓN CULTURAL</strong></p>
+<p>¿Qué sabes de Alemania y de la lengua alemana? Compruébalo haciendo este <a href="https://play.kahoot.it/v2/?quizId=6bddbfdd-d548-4c62-893d-eab8a72f4616"><strong id="link_4">kahoot </strong></a>con el que tendrás tu primer contacto con este interesante país y su lengua.</p>
+<p><strong>ACTIVIDAD 2: FONÉTICA</strong></p>
+<p>Lee esta <a href="https://docs.google.com/presentation/d/1rbSKVKgkJLXem0PBCsqX6gSmjnRU0Gsw/edit?slide=id.p1#slide=id.p1"><strong id="link_5">presentación de personajes famosos</strong></a> relacionados con Alemania, mientras escuchas el <a href="https://drive.google.com/file/d/1E6jPsxhKI1V18OcoD8c1-_t0n2zMr6n3/view"><strong id="link_6">audio</strong></a>. Anota en este lista de palabras  donde aparecen las vocales, diptongos, consonantes y grupos consonánticos señalados y así aprenderás a pronunciarlas.</p>
+<p>Es igual que en español, donde los grupos consonánticos siempre se pronuncian de la misma manera: lluvia, llorar, llamar... chillar, churro, chapata...</p>
+<p>¡Mucho más fácil que en inglés o francés!</p>
+<p><strong>ACTIVIDAD 3: ALFABETO</strong></p>
+<p>Escucha y repite este <a href="https://www.youtube.com/watch?v=zxQXEyMMC0E&t=8s"><strong id="link_8">vídeo </strong></a>para aprender el alfabeto alemán. Aprendiendo esto puedes deletrear tu nombre o pedir que te deletreen informaciones que quieres entender bien como, por ejemplo, el nombre de otra persona o el de una calle a la que quieres ir.</p>
+<p>Para afianzar el alfabeto te propongo que visiones este <a href="https://www.facebook.com/RaDiAleman/videos/abecedario-alem%C3%A1n-learngerman-aprenderaleman-deutschlernen-german-deutsch/1300830681152606/"><strong id="link_9">vídeo </strong></a>y repitas con esta profesora alemana lo que has aprendido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774079312088-mp1v8l615","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ACTIVIDAD 1: INTRODUCCIÓN CULTURAL</strong></p>\n<p>¿Qué sabes de Alemania y de la lengua alemana? Compruébalo haciendo este <a href=\"https://play.kahoot.it/v2/?quizId=6bddbfdd-d548-4c62-893d-eab8a72f4616\"><strong id=\"link_4\">kahoot </strong></a>con el que tendrás tu primer contacto con este interesante país y su lengua.</p>\n<p><strong>ACTIVIDAD 2: FONÉTICA</strong></p>\n<p>Lee esta <a href=\"https://docs.google.com/presentation/d/1rbSKVKgkJLXem0PBCsqX6gSmjnRU0Gsw/edit?slide=id.p1#slide=id.p1\"><strong id=\"link_5\">presentación de personajes famosos</strong></a> relacionados con Alemania, mientras escuchas el <a href=\"https://drive.google.com/file/d/1E6jPsxhKI1V18OcoD8c1-_t0n2zMr6n3/view\"><strong id=\"link_6\">audio</strong></a>. Anota en este lista de palabras  donde aparecen las vocales, diptongos, consonantes y grupos consonánticos señalados y así aprenderás a pronunciarlas.</p>\n<p>Es igual que en español, donde los grupos consonánticos siempre se pronuncian de la misma manera: lluvia, llorar, llamar... chillar, churro, chapata...</p>\n<p>¡Mucho más fácil que en inglés o francés!</p>\n<p><strong>ACTIVIDAD 3: ALFABETO</strong></p>\n<p>Escucha y repite este <a href=\"https://www.youtube.com/watch?v=zxQXEyMMC0E&t=8s\"><strong id=\"link_8\">vídeo </strong></a>para aprender el alfabeto alemán. Aprendiendo esto puedes deletrear tu nombre o pedir que te deletreen informaciones que quieres entender bien como, por ejemplo, el nombre de otra persona o el de una calle a la que quieres ir.</p>\n<p>Para afianzar el alfabeto te propongo que visiones este <a href=\"https://www.facebook.com/RaDiAleman/videos/abecedario-alem%C3%A1n-learngerman-aprenderaleman-deutschlernen-german-deutsch/1300830681152606/\"><strong id=\"link_9\">vídeo </strong></a>y repitas con esta profesora alemana lo que has aprendido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocl-pajjcodpo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocl-pajjcodpo</odePageId>
+      <odeBlockId>block-1775584192033-ki16it47e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocl-pajjcodpo</odePageId>
+          <odeBlockId>block-1775584192033-ki16it47e</odeBlockId>
+          <odeIdeviceId>idevice-1775584192031-1xw8pw568</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ACTIVIDAD 1: SALUDOS</strong></p>
+<p>Escuchando y repitiendo el contenido de este <a href="https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/YDgnZe1EGYmOZwrA"><strong id="link_3">vídeo </strong></a>aprenderás los entender y decir los saludos principales en alemán.</p>
+<h6 style="text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_uilog3uilog3uilo.png" width="420" height="229" alt="" style="display: block; margin-left: auto; margin-right: auto;" /> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</h6>
+<p><strong></strong></p>
+<p><strong>ACTIVIDAD 2: NÚMEROS</strong></p>
+<p>Ha llegado el momento de aprender los números. Escucha y repite los números que aprenderás en este <a href="https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/Xb8YaLp95kowayn1" id="link_2"><strong>vídeo</strong></a>.</p>
+<h6 style="text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ouaii9ouaii9ouai.png" width="418" height="228" alt="" style="display: block; margin-left: auto; margin-right: auto;" /> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</h6>
+<p><strong></strong></p>
+<p><strong>ACTIVIDAD 3: PRACTICA LOS NÚMEROS</strong></p>
+<p>Con esta <strong><a href="https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/e9YpQNpRYAbVWxjM" id="link_4">actividad de Wordwall</a></strong> practicarás los números haciendo divertidas sumas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775584192031-1xw8pw568","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ACTIVIDAD 1: SALUDOS</strong></p>\n<p>Escuchando y repitiendo el contenido de este <a href=\"https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/YDgnZe1EGYmOZwrA\"><strong id=\"link_3\">vídeo </strong></a>aprenderás los entender y decir los saludos principales en alemán.</p>\n<h6 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_uilog3uilog3uilo.png\" width=\"420\" height=\"229\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>)</h6>\n<p><strong></strong></p>\n<p><strong>ACTIVIDAD 2: NÚMEROS</strong></p>\n<p>Ha llegado el momento de aprender los números. Escucha y repite los números que aprenderás en este <a href=\"https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/Xb8YaLp95kowayn1\" id=\"link_2\"><strong>vídeo</strong></a>.</p>\n<h6 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ouaii9ouaii9ouai.png\" width=\"418\" height=\"228\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>)</h6>\n<p><strong></strong></p>\n<p><strong>ACTIVIDAD 3: PRACTICA LOS NÚMEROS</strong></p>\n<p>Con esta <strong><a href=\"https://padlet.com/rocioramos8/wer-bist-du-nw0yga79w2h88850/wish/e9YpQNpRYAbVWxjM\" id=\"link_4\">actividad de Wordwall</a></strong> practicarás los números haciendo divertidas sumas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocm-ecovl24t9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocm-ecovl24t9</odePageId>
+      <odeBlockId>block-1775584994572-j0ujx6rki</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocm-ecovl24t9</odePageId>
+          <odeBlockId>block-1775584994572-j0ujx6rki</odeBlockId>
+          <odeIdeviceId>idevice-1775584994568-n13qqari5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ACTIVIDAD 1: ¿DE DÓNDE ERES?</strong></p>
+<p>Aprende a decir tu país de procedencia escuchando y repitiendo este <a href="https://www.instagram.com/reel/C_yG0XIIZ0I/" id="link_10"><strong>vídeo </strong></a>de Instagram.</p>
+<p> <img src="{{context_path}}/content/resources/globo-terraqueo.png" width="167" height="167" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;" id="link_13" title=""><a href="<a%20href="https://www.flaticon.es/iconos-gratis/globo"%20title="globo%20iconos">Globo%20iconos%20creados%20por%20Freepik%20-%20Flaticon</a>">Imagen </a>de  <a href="https://www.flaticon.es/autores/freepik">Freepik </a>de <a href="https://www.flaticon.es/">Flaticon </a>(<a href="https://www.flaticon.es/legal">Licencia gratuita</a>)</h6>
+<p style="text-align: justify;"><br /><br /><strong>ACTIVIDAD 2: IDIOMAS</strong></p>
+<p style="text-align: justify;">Aprende los idiomas con a través de esta <a href="https://www.instagram.com/reel/C_yG0XIIZ0I/" id="link_11"><strong>presentación </strong></a>de Slide Share.</p>
+<p>  <img src="{{context_path}}/content/resources/Gemini_Generated_Image_an0a3oan0a3oan0a.png" width="417" height="227" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;" id="link_12"> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocm-mgno2emjs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocm-mgno2emjs</odePageId>
+      <odeBlockId>block-1775658825378-v53t8fokq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocm-mgno2emjs</odePageId>
+          <odeBlockId>block-1775658825378-v53t8fokq</odeBlockId>
+          <odeIdeviceId>idevice-1775658825376-cbmquqewz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de haber realizado todas las actividades anteriores ha llegado el momento de demonstrar tus conocimientos en la lengua alemana. ¡Allá vamos!</p>
+<p><strong>TAREA 1: Comprensión lectora</strong></p>
+<p>Lee el texto del <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTlhdbj_yFc60EU-okIGnQp6rF-8nVHG4_jckXbOSg13jHGA/viewform" id="link_5">enlace </a>y contesta las preguntas en el cuestionario Google. Las preguntas también pueden ser escuchadas.</p>
+<h6 style="text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_4ciddn4ciddn4cid (1).png" width="468" height="255" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/" id="link_7">CC BY 4.0</a>)</h6>
+<p><strong></strong></p>
+<p><strong>TAREA 2: Expresión escrita</strong></p>
+<p>Crea tu avatar con <a href="https://www.canva.com/es_mx/crear/avatares/" id="link_6" title="">Canva</a>. Si necesitas ayuda, puedes ver este <a href="https://www.youtube.com/watch?v=7TqW7lHroVA">tutorial</a>. Añádelo a la tabla y escribe <a href="https://docs.google.com/document/d/1wALKT0sp_bzJQ0USSOjkjyHkkLuQb-39vPZDzeU1MMk/edit?tab=t.0">aquí </a>un texto con lo que has aprendido en la lección 1: Saluda, preséntate, escribe de dónde vienes y dónde vives, escribe los idiomas que hablas e invéntate un número de teléfono y una dirección de correo. En el texto verás el ejemplo de Ana.</p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_6vxlpv6vxlpv6vxl.png" width="490" height="267" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;"> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/" id="link_9">CC BY 4.0</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775658825376-cbmquqewz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de haber realizado todas las actividades anteriores ha llegado el momento de demonstrar tus conocimientos en la lengua alemana. ¡Allá vamos!</p>\n<p><strong>TAREA 1: Comprensión lectora</strong></p>\n<p>Lee el texto del <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdTlhdbj_yFc60EU-okIGnQp6rF-8nVHG4_jckXbOSg13jHGA/viewform\" id=\"link_5\">enlace </a>y contesta las preguntas en el cuestionario Google. Las preguntas también pueden ser escuchadas.</p>\n<h6 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_4ciddn4ciddn4cid (1).png\" width=\"468\" height=\"255\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\" id=\"link_7\">CC BY 4.0</a>)</h6>\n<p><strong></strong></p>\n<p><strong>TAREA 2: Expresión escrita</strong></p>\n<p>Crea tu avatar con <a href=\"https://www.canva.com/es_mx/crear/avatares/\" id=\"link_6\" title=\"\">Canva</a>. Si necesitas ayuda, puedes ver este <a href=\"https://www.youtube.com/watch?v=7TqW7lHroVA\">tutorial</a>. Añádelo a la tabla y escribe <a href=\"https://docs.google.com/document/d/1wALKT0sp_bzJQ0USSOjkjyHkkLuQb-39vPZDzeU1MMk/edit?tab=t.0\">aquí </a>un texto con lo que has aprendido en la lección 1: Saluda, preséntate, escribe de dónde vienes y dónde vives, escribe los idiomas que hablas e invéntate un número de teléfono y una dirección de correo. En el texto verás el ejemplo de Ana.</p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_6vxlpv6vxlpv6vxl.png\" width=\"490\" height=\"267\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<h6 style=\"text-align: center;\"> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\" id=\"link_9\">CC BY 4.0</a>)</h6>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocn-9t71il0p0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocn-9t71il0p0</odePageId>
+      <odeBlockId>block-1775659934306-dww4xnzej</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocn-9t71il0p0</odePageId>
+          <odeBlockId>block-1775659934306-dww4xnzej</odeBlockId>
+          <odeIdeviceId>idevice-1775659934304-7kyikydqx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Por fin llegamos a la última sesión! Después de haber practicado la compresión y la expresión escrita es hora de demonstrar que también has aprendido ha hablar en alemán sobre los contenidos de esta lección. ¡Mucho ánimo!</p>
+<p><strong>TAREA 3: EXPRESIÓN ORAL</strong></p>
+<p>Graba un videoselfie hablando de todo lo que has aprendido en la lección:</p>
+<p>- saluda<br />- preséntate<br />- habla sobre el lugar de residencia y de procedencia<br />- di qué idiomas sabes hablar<br />- di tu número de teléfono<br />- deletrea tu dirección de correo electrónico<br /></p>
+<p>Súbele a este <a href="saludos%20preguntar%20por%20el%20nombre%20y%20presentarse%20hablar%20sobre%20el%20lugar%20de%20residencia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20“%20%20%20%20%20%20%20%20%20%20%20%20procedencia%20los%20idiomas%20los%20números%20y%20el%20número%20de%20teléfono%20deletrear%20y%20la%20dirección%20de%20correo%20electrónico" id="link_10">padlet </a>donde reuniremos todos los vídeos de la clase.</p>
+<p style="text-align: justify;">Aquí tienes un <a href="https://padlet.com/rocioramos8/nuestro-primer-v-deo-en-alem-n-x313iui9qomncw0p/wish/e9YpQNpKVGvlWxjM" id="link_12" title="">ejemplo de tu profesora</a>. <br />Si tienes algún problema sobre cómo grabar el vídeo, puedes ver este <a href="https://padlet.com/rocioramos8/nuestro-primer-v-deo-en-alem-n-x313iui9qomncw0p/wish/do3MQJwKO7mOZ15w">tutorial</a>.</p>
+<h6 style="text-align: center;"><br /><img src="{{context_path}}/content/resources/Gemini_Generated_Image_6wqfye6wqfye6wqf.png" width="429" height="234" alt="" style="display: block; margin-left: auto; margin-right: auto;" /> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/" id="link_13">CC BY 4.0</a>)</h6>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775659934304-7kyikydqx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Por fin llegamos a la última sesión! Después de haber practicado la compresión y la expresión escrita es hora de demonstrar que también has aprendido ha hablar en alemán sobre los contenidos de esta lección. ¡Mucho ánimo!</p>\n<p><strong>TAREA 3: EXPRESIÓN ORAL</strong></p>\n<p>Graba un videoselfie hablando de todo lo que has aprendido en la lección:</p>\n<p>- saluda<br />- preséntate<br />- habla sobre el lugar de residencia y de procedencia<br />- di qué idiomas sabes hablar<br />- di tu número de teléfono<br />- deletrea tu dirección de correo electrónico<br /></p>\n<p>Súbele a este <a href=\"saludos%20preguntar%20por%20el%20nombre%20y%20presentarse%20hablar%20sobre%20el%20lugar%20de%20residencia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20“%20%20%20%20%20%20%20%20%20%20%20%20procedencia%20los%20idiomas%20los%20números%20y%20el%20número%20de%20teléfono%20deletrear%20y%20la%20dirección%20de%20correo%20electrónico\" id=\"link_10\">padlet </a>donde reuniremos todos los vídeos de la clase.</p>\n<p style=\"text-align: justify;\">Aquí tienes un <a href=\"https://padlet.com/rocioramos8/nuestro-primer-v-deo-en-alem-n-x313iui9qomncw0p/wish/e9YpQNpKVGvlWxjM\" id=\"link_12\" title=\"\">ejemplo de tu profesora</a>. <br />Si tienes algún problema sobre cómo grabar el vídeo, puedes ver este <a href=\"https://padlet.com/rocioramos8/nuestro-primer-v-deo-en-alem-n-x313iui9qomncw0p/wish/do3MQJwKO7mOZ15w\">tutorial</a>.</p>\n<h6 style=\"text-align: center;\"><br /><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_6wqfye6wqfye6wqf.png\" width=\"429\" height=\"234\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\" id=\"link_13\">CC BY 4.0</a>)</h6>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocn-w84g8dqoc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tu producto final</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tu producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tu producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tu producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocn-w84g8dqoc</odePageId>
+      <odeBlockId>block-1774350245542-3gzqw30g6</odeBlockId>
+      <blockName>¿Con qué herramienta crearás tu producto final?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocn-w84g8dqoc</odePageId>
+          <odeBlockId>block-1774350245542-3gzqw30g6</odeBlockId>
+          <odeIdeviceId>idevice-1774350245538-aw2mvcejf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La herramienta para la realización del producto final que propongo es Google Docs, con la que pretendo que realices un documento común donde cada uno se presenta con su avatar usando los conocimientos de alemán de la primera lección.</p>
+<p>Con el correo corporativo de Google que recibes al matricularse tienes acceso a todas las herramientas de Google y, ya que se trata de una tarea de expresión escrita, Google Docs me parece la herramienta más sencilla.</p>
+<p>Para realizar la tarea que te propongo sólo es necesario el uso del teléfono móvil con conexión a internet. </p>
+<p><img src="{{context_path}}/content/resources/google-docs.png" width="135" height="135" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h6 style="text-align: center;" id="link_14" title=""><a href="<a%20href="https://www.flaticon.es/iconos-gratis/documento"%20title="documento%20iconos">Documento%20iconos%20creados%20por%20Freepik%20-%20Flaticon</a>">Imagen </a>de <a href="https://www.flaticon.es/autores/freepik">Freepik </a>de <a href="https://www.flaticon.es/">Flaticon </a>(<a href="https://www.flaticon.es/legal">Licencia gratuita</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaoco-wwsr3l8oi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se me va a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaoco-wwsr3l8oi</odePageId>
+      <odeBlockId>block-1774080428374-98yq08ozy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaoco-wwsr3l8oi</odePageId>
+          <odeBlockId>block-1774080428374-98yq08ozy</odeBlockId>
+          <odeIdeviceId>idevice-1774080428370-avp1tf9ds</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Haz clic en el icono y encontrarás toda la información que necesitas sobre cómo se te va a evaluar cada tarea.</p>
+<p><a href="https://drive.google.com/file/d/1UxnGHUKr2y31lW-GfXmGHVc4Truo0SOr/view?usp=sharing" id="link_17"><img src="{{context_path}}/content/resources/lista-de-verificacion.png" width="199" height="199" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<h6 style="text-align: center;" id="link_15" title=""><a href="<a%20href="https://www.flaticon.es/iconos-gratis/evaluacion"%20title="evaluación%20iconos">Evaluación%20iconos%20creados%20por%20Freepik%20-%20Flaticon</a>">Imagen </a>de <a href="https://www.freepik.com/app">Freepik </a>de <a href="https://www.flaticon.es/">Flaticon </a>(<a href="https://www.flaticon.es/legal">Licencia gratuita</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaoco-c1zz2qgdu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ficha técnica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaoco-c1zz2qgdu</odePageId>
+      <odeBlockId>block-1775580410618-hqsqqljv6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaoco-c1zz2qgdu</odePageId>
+          <odeBlockId>block-1775580410618-hqsqqljv6</odeBlockId>
+          <odeIdeviceId>idevice-1775580410615-yean8458s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí te puedes informar sobre:</p>
+<p>- <a href="exe-node:page-mnoupt3x-fpcsbuice" id="link_0">Autoría, edición y derechos de imagen e ilustraciones</a><br />- <a href="exe-node:page-mnoupt3y-evukgks9w" id="link_1">Licencia de uso</a><br />- <a href="documentacion-completa-del-curso.html" id="link_3">Documentación completa del curso (pdf)</a></p>
+<h6 style="text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_vlfr9wvlfr9wvlfr.png" width="364" height="198" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></h6>
+<h6 style="text-align: center;"> Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/" id="link_2">CC BY 4.0</a>)</h6>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775580410615-yean8458s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí te puedes informar sobre:</p>\n<p>- <a href=\"exe-node:page-mnoupt3x-fpcsbuice\" id=\"link_0\">Autoría, edición y derechos de imagen e ilustraciones</a><br />- <a href=\"exe-node:page-mnoupt3y-evukgks9w\" id=\"link_1\">Licencia de uso</a><br />- <a href=\"exe-node:page-mnsxl5l9-6d0cz4mhy\" id=\"link_3\">Documentación completa del curso (pdf)</a></p>\n<h6 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_vlfr9wvlfr9wvlfr.png\" width=\"364\" height=\"198\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></h6>\n<h6 style=\"text-align: center;\"> Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\" id=\"link_2\">CC BY 4.0</a>)</h6>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocp-oxhjj1uvm</odePageId>
+  <odeParentPageId>page-mo1gaoco-c1zz2qgdu</odeParentPageId>
+  <pageName>Autoría, edición y derechos de imagen e ilustraciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría, edición y derechos de imagen e ilustraciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría, edición y derechos de imagen e ilustraciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Autoría, edición y derechos de imagen e ilustraciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocp-oxhjj1uvm</odePageId>
+      <odeBlockId>block-1775556718807-r549zxep1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocp-oxhjj1uvm</odePageId>
+          <odeBlockId>block-1775556718807-r549zxep1</odeBlockId>
+          <odeIdeviceId>idevice-1775556718803-9gk74q7zp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>AUTORÍA Y EDICIÓN</strong>:<br /><strong>Rocío Ramos Alanzabes</strong>, prof. de alemán en la EOI de Córdoba</p>
+<p><strong>DERECHOS DE IMÁGENES E ILUSTRACIONES</strong>: </p>
+<p>Las imágenes usadas pertenecen a bancos de recursos libres tales como FreePik  o Flaticon, tal como se indican en cada una de ellas. Algunas fueron creadas por la Inteligencia Artificial Gemini.<br />Las ilustraciones han sido realizadas por <strong>Rocío Ramos Alanzabes</strong> con licencia <br /><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" id="link_2"><img src="{{context_path}}/content/resources/Licencia de uso.png" width="118" height="41" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775556718803-9gk74q7zp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>AUTORÍA Y EDICIÓN</strong>:<br /><strong>Rocío Ramos Alanzabes</strong>, prof. de alemán en la EOI de Córdoba</p>\n<p><strong>DERECHOS DE IMÁGENES E ILUSTRACIONES</strong>: </p>\n<p>Las imágenes usadas pertenecen a bancos de recursos libres tales como FreePik  o Flaticon, tal como se indican en cada una de ellas. Algunas fueron creadas por la Inteligencia Artificial Gemini.<br />Las ilustraciones han sido realizadas por <strong>Rocío Ramos Alanzabes</strong> con licencia <br /><a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/es/\" id=\"link_2\"><img src=\"{{context_path}}/content/resources/Licencia de uso.png\" width=\"118\" height=\"41\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocp-frql1bpnw</odePageId>
+  <odeParentPageId>page-mo1gaoco-c1zz2qgdu</odeParentPageId>
+  <pageName>Licencia de uso</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia de uso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia de uso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencia de uso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocp-frql1bpnw</odePageId>
+      <odeBlockId>block-1775556529957-zo6imyg5c</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocp-frql1bpnw</odePageId>
+          <odeBlockId>block-1775556529957-zo6imyg5c</odeBlockId>
+          <odeIdeviceId>idevice-1775556529955-q4sbhqp28</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" id="link_1"><img src="{{context_path}}/content/resources/Licencia de uso.png" width="118" height="41" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a><br /></p>
+<p>Esta unidad y sus materiales  se distribuyen con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" id="link_3">Creative Commons</a>. Todos los materiales de terceros contenidos aquí tienen una licencia de uso que permite sean incluidos en ella. Si usted detecta que alguno de los materiales empleados no respeta la licencia con la que han sido publicados le rogamos lo comunique escribiendo un correo a <em>rocioramos@eoicordoba.com</em>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775556529955-q4sbhqp28","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/es/\" id=\"link_1\"><img src=\"{{context_path}}/content/resources/Licencia de uso.png\" width=\"118\" height=\"41\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a><br /></p>\n<p>Esta unidad y sus materiales  se distribuyen con licencia <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/es/\" id=\"link_3\">Creative Commons</a>. Todos los materiales de terceros contenidos aquí tienen una licencia de uso que permite sean incluidos en ella. Si usted detecta que alguno de los materiales empleados no respeta la licencia con la que han sido publicados le rogamos lo comunique escribiendo un correo a <em>rocioramos@eoicordoba.com</em>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1gaocq-ycqp430c2</odePageId>
+  <odeParentPageId>page-mo1gaoco-c1zz2qgdu</odeParentPageId>
+  <pageName>Documentación completa del curso</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Documentación completa del curso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Documentación completa del curso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1gaocq-ycqp430c2</odePageId>
+      <odeBlockId>block-1775584101395-i7adbuuyl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1gaocq-ycqp430c2</odePageId>
+          <odeBlockId>block-1775584101395-i7adbuuyl</odeBlockId>
+          <odeIdeviceId>idevice-1775584101392-zvjmion5q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descargas:</p>
+<p>- <a href="https://drive.google.com/file/d/1i98_jsae1mTdTG5Ysm879Nv1zvJU_-9q/view" id="link_0">Pdf con los contenidos del curso</a></p>
+<p>- <a href="https://drive.google.com/file/d/1vZHLmtKrVJ-79eHghxdbfNkZpJboqFR7/view?usp=sharing" id="link_1">Archivo elp</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775584101392-zvjmion5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descargas:</p>\n<p>- <a href=\"https://drive.google.com/file/d/1i98_jsae1mTdTG5Ysm879Nv1zvJU_-9q/view\" id=\"link_0\">Pdf con los contenidos del curso</a></p>\n<p>- <a href=\"https://drive.google.com/file/d/1vZHLmtKrVJ-79eHghxdbfNkZpJboqFR7/view?usp=sharing\" id=\"link_1\">Archivo elp</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
